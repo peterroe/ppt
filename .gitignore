@@ -1,6 +1,5 @@
 node_modules
 .DS_Store
 *.local
-index.html
 .remote-assets
 components.d.ts
