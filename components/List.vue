@@ -22,9 +22,7 @@
 		},
 		methods: {
 			getList() {
-				console.log(123)
-				axios.get('http://49.123.0.27:3000/list').then(value => {
-					console.log(value.data)
+				axios.get('https://secondclass.ticknet.hnust.cn/list').then(value => {
 					this.list = value.data
 				})
 			},

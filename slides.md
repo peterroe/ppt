@@ -514,7 +514,7 @@ const final = {
 
 1. 通过编写Js，发送远程请求，可以携带部分数据
 
-2. 请求路径格式为 协议名 + 主机名 + 端口名 + 路径名
+2. 请求路径称为[URL](https://developer.mozilla.org/zh-CN/docs/Learn/Common_questions/What_is_a_URL)
 	* 例如： http://49.123.0.27:3000/list
 	* 例如： https://www.baidu.com
 
