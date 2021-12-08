@@ -323,7 +323,7 @@ clicks: 5
 
 axios优点：
 
-* 从浏览器中创建 XMLHttpRequests
+* 从浏览器中创建 XMLHttpRequest
 * 支持 Promise API
 * 拦截请求和响应
 * 转换请求数据和响应数据
