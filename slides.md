@@ -532,4 +532,13 @@ class: text-center
 
 # Learn More
 
+&nbsp;
+
+### 文章:
+
+[axios用法](https://juejin.cn/post/7034827130701611016#heading-1)、[浏览器跨域问题](https://juejin.cn/post/6844903972742889480)、[fetch和axios](https://juejin.cn/post/6934155066198720519)、[上手express](https://juejin.cn/post/6844903972742889480)
+
+### 其他:
+
+[ppt源码地址](https://github.com/peterroe/ppt)、[ppt制作工具](https://cn.sli.dev/)
 
