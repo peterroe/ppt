@@ -463,7 +463,7 @@ preload: false
 	const getBtn = document.querySelector('button')
 	
 	getBtn.onclick = function() {
-		axios.get('http://49.123.0.27:3000/list').then(value => {
+		axios.get('http://localhost:3000/list').then(value => {
 			console.log(value.data)
 			//展示获取到的数据
 		})
@@ -471,7 +471,7 @@ preload: false
 </script>
 ``` 
 
-<list />
+<!-- <list /> -->
 
 <!-- vue script setup scripts can be directly used in markdown, and will only affects current page -->
 <script setup lang="ts">
