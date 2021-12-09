@@ -536,7 +536,7 @@ class: text-center
 
 ### 文章:
 
-[axios用法](https://juejin.cn/post/7034827130701611016#heading-1)、[浏览器跨域问题](https://juejin.cn/post/6844903972742889480)、[fetch和axios](https://juejin.cn/post/6934155066198720519)、[上手express](https://juejin.cn/post/6844903972742889480)
+[axios用法](https://juejin.cn/post/7034827130701611016#heading-1)、[浏览器跨域问题](https://juejin.cn/post/6844903972742889480)、[fetch和axios](https://juejin.cn/post/6934155066198720519)、[上手express](https://juejin.cn/post/6844904023380721678)
 
 ### 其他:
 
