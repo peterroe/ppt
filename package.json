@@ -14,6 +14,6 @@
   },
   "name": "slidev",
   "devDependencies": {
-    "@iconify-json/logos": "1.0.1"
+    "@iconify-json/logos": "1.1.5"
   }
 }
